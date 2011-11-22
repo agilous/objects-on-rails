@@ -1,6 +1,6 @@
 development:
   adapter: mysql2
-  database: oor_development.sqlite3
+  database: oor_development
   username: root
 
 test:
